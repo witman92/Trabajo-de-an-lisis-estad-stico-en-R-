@@ -1,8 +1,7 @@
 CATEDRA
  Analisis Estadstico (AES1018)
  Fecha: 31-05-2025
- Debera entregar un informe en formato pdf y enviarlo a jcontreras@udla.cl, a mas tardar
- a las 23:59 hrs del da 08-06-2026.
+
  1. Los datos Estudiantes.xlsx fueron recogidos aplicando una encuesta a una muestra de estudiantes
  universitarios, y corresponde a un dataframe con 400 observaciones y 18 variables, las cuales se de
 scriben en el mismo archivo. Realize un analisis descriptivo pertinente de las variables y comentando
